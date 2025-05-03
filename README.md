@@ -10,6 +10,9 @@ An intelligent chatbot that allows you to upload multiple PDF files and interact
 - 🧠 Natural language understanding powered by Google GenAI.
 - 🖥️ User-friendly interface built with Streamlit.
 
+## Demo
+![Chat Interface](assets/image1.png)
+![Chat Interface](assets/image2.png)
 ## 🛠️ Tech Stack
 
 - Python
@@ -20,6 +23,6 @@ An intelligent chatbot that allows you to upload multiple PDF files and interact
 - Google GenAI
 
 
-###Important
-conda activate "E:\Web Development\PROJECTS\Chat_pdf\venv"
-streamlit run app.py
+### Important
+- conda activate "E:\Web Development\PROJECTS\Chat_pdf\venv"
+- streamlit run app.py
